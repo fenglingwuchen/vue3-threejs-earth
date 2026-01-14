@@ -1,5 +1,18 @@
-# Vue 3 + Vite
+# vue3-threejs-earth
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+基于 **Vue 3 + Vite + Three.js** 的 3D 地球可视化项目。
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## 技术栈
+- Vue 3
+- Vite
+- Three.js
+
+## 功能介绍
+- 3D 地球贴图渲染
+- 地球自转动画
+- Three.js 场景与相机控制
+
+## 本地运行
+```bash
+npm install
+npm run dev
